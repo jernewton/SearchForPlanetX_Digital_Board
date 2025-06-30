@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Node / JS
+node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+plantx_v*.html
+
+# Thumbnails or temporary files
+*.log
+*.tmp
